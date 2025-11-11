@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project integrates **AI-based image classification** with an **interactive web game** designed to predict cognitive response patterns related to dyslexia.  
-It compares three approaches — **Deep Learning (CNN)**, **Classical Machine Learning**, and **Transfer Learning (VGG16)** — to classify images into three categories: **Normal**, **Correlated**, and **Reversal**.  
+It compares three approaches, **Deep Learning (CNN)**, **Classical Machine Learning**, and **Transfer Learning (VGG16)**, to classify images into three categories: **Normal**, **Correlated**, and **Reversal**.  
 
 The web interface provides an engaging, quiz-based experience for users while displaying real-time results and feedback.
 
@@ -12,7 +12,7 @@ The web interface provides an engaging, quiz-based experience for users while di
 - **AI Models Comparison:**  
   Evaluates CNN, ML ensemble, and Transfer Learning (VGG16) models based on accuracy, precision, recall, and F1-score.  
 - **Interactive Frontend:**  
-  Offers two quiz modes — *Alphabetical Quiz* and *Word Quiz* — with random questions and dynamic scoring.  
+  Offers two quiz modes, *Alphabetical Quiz* and *Word Quiz*, with random questions and dynamic scoring.  
 - **Real-time Evaluation:**  
   Predicts the user’s category (*Normal*, *Correlated*, or *Reversal*) based on performance.  
 - **Graphical Feedback:**  
@@ -35,7 +35,7 @@ The web interface provides an engaging, quiz-based experience for users while di
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ZonaZubair/FYP-Dyslexia-Prediction-App.git
 
 ---
 
