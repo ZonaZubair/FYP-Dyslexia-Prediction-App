@@ -1,4 +1,4 @@
-# 🧠 Image Classification and Dyslexia Detection Web Application
+# 🧠 Dyslexia Prediction Web Application
 
 ## 📌 Overview
 This project integrates **AI-based image classification** with an **interactive web game** designed to predict cognitive response patterns related to dyslexia.  
