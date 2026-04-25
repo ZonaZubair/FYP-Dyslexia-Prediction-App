@@ -1,7 +1,7 @@
 # 🧠 Dyslexia Prediction Web Application
 
 ## 📌 Overview
-This project integrates *AI-based image classification** with an interactive web game designed to predict cognitive response patterns related to dyslexia.
+This project integrates **AI-based image classification** with an interactive web game designed to predict cognitive response patterns related to dyslexia.
 It compares three approaches, **Deep Learning (CNN)**, Classical **Machine Learning**, and **Transfer Learning (VGG16)**, to classify images into three categories: **Normal**, **Correlated**, and **Reversal**.
 The web interface provides an engaging, quiz-based experience for users while displaying real-time results and feedback.
 
