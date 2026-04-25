@@ -47,3 +47,18 @@ pip install -r requirements.txt
 ## Run the app
 
 python app.py
+
+---
+
+## 🖼️ UI Screenshots
+
+1. **Home Page**
+    <img width="510" height="277" alt="UI 1" src="https://github.com/user-attachments/assets/2610809f-a17f-42c0-8541-a887a3c2ab6a" />
+
+2. **Alphabetical Quiz**
+    Alphabetical Quiz with handwriting canvas input
+    <img width="425" height="275" alt="UI 2" src="https://github.com/user-attachments/assets/a508ad8b-d7a2-4ecd-b3bf-7ab36993c246" />
+
+3. **Word Quiz**
+
+4. **Result Page**
