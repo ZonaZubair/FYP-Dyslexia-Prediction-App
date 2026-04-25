@@ -52,19 +52,18 @@ python app.py
 
 ## 🖼️ UI Screenshots
 
-**Home Page**
-
+Home Page
 <img width="510" height="277" alt="UI 1" src="https://github.com/user-attachments/assets/2610809f-a17f-42c0-8541-a887a3c2ab6a" />
 
-**Alphabetical Quiz with handwriting canvas input** 
+Alphabetical Quiz with handwriting canvas input
 
 <img width="425" height="275" alt="UI 2" src="https://github.com/user-attachments/assets/a508ad8b-d7a2-4ecd-b3bf-7ab36993c246" />
 
-**Word Quiz Interface with handwriting canvas input**
+Word Quiz Interface with handwriting canvas input
 
 <img width="458" height="296" alt="UI 3" src="https://github.com/user-attachments/assets/5b04fe2e-dc9b-4705-bb07-8cbef5ab734f" />
 
-**Result Page with Score Summary and Prediction**
+Result Page with Score Summary and Prediction
 
 <img width="476" height="269" alt="UI 4" src="https://github.com/user-attachments/assets/cbd11fb0-7fe4-4f5e-a204-6dcc4f7dca0a" />
 
