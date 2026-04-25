@@ -52,18 +52,29 @@ python app.py
 
 ## 🖼️ UI Screenshots
 
-Home Page
-<img width="510" height="277" alt="UI 1" src="https://github.com/user-attachments/assets/2610809f-a17f-42c0-8541-a887a3c2ab6a" />
-
-Alphabetical Quiz with handwriting canvas input
-
-<img width="425" height="275" alt="UI 2" src="https://github.com/user-attachments/assets/a508ad8b-d7a2-4ecd-b3bf-7ab36993c246" />
-
-Word Quiz Interface with handwriting canvas input
-
-<img width="458" height="296" alt="UI 3" src="https://github.com/user-attachments/assets/5b04fe2e-dc9b-4705-bb07-8cbef5ab734f" />
-
-Result Page with Score Summary and Prediction
-
-<img width="476" height="269" alt="UI 4" src="https://github.com/user-attachments/assets/cbd11fb0-7fe4-4f5e-a204-6dcc4f7dca0a" />
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Home.png" width="400"/>
+      <br/>
+      <b>🏠 Home Page</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Alphabet_quiz.png" width="400"/>
+      <br/>
+      <b>🔤 Alphabetical Quiz with Handwriting Canvas Input</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Word_quiz.png" width="400"/>
+      <br/>
+      <b>📝 Word Quiz Interface with Handwriting Canvas Input</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Result.png" width="400"/>
+      <br/>
+      <b>📊 Result Page with Score Summary and Prediction</b>
+    </td>
+  </tr>
+</table>
