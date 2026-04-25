@@ -60,7 +60,7 @@ python app.py
       <b>🏠 Home Page</b>
     </td>
     <td align="center">
-      <img src="screenshots/Alphabet_quiz.png" width="400"/>
+      <img src="screenshots/Alphabetical_quiz.png" width="400"/>
       <br/>
       <b>🔤 Alphabetical Quiz with Handwriting Canvas Input</b>
     </td>
