@@ -55,24 +55,24 @@ python app.py
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Home.png" width="400"/>
+      <img src="screenshots/home.png" width="400"/>
       <br/>
       <b>🏠 Home Page</b>
     </td>
     <td align="center">
-      <img src="screenshots/Alphabetical_quiz.png" width="400"/>
+      <img src="screenshots/alphabetical_quiz.png" width="400"/>
       <br/>
       <b>🔤 Alphabetical Quiz with Handwriting Canvas Input</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/Word_quiz.png" width="400"/>
+      <img src="screenshots/word_quiz.png" width="400"/>
       <br/>
       <b>📝 Word Quiz Interface with Handwriting Canvas Input</b>
     </td>
     <td align="center">
-      <img src="screenshots/Result.png" width="400"/>
+      <img src="screenshots/result.png" width="400"/>
       <br/>
       <b>📊 Result Page with Score Summary and Prediction</b>
     </td>
