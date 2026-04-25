@@ -1,9 +1,8 @@
 # 🧠 Dyslexia Prediction Web Application
 
 ## 📌 Overview
-This project integrates **AI-based image classification** with an **interactive web game** designed to predict cognitive response patterns related to dyslexia.  
-It compares three approaches, **Deep Learning (CNN)**, **Classical Machine Learning**, and **Transfer Learning (VGG16)**, to classify images into three categories: **Normal**, **Correlated**, and **Reversal**.  
-
+This project integrates *AI-based image classification** with an interactive web game designed to predict cognitive response patterns related to dyslexia.
+It compares three approaches, **Deep Learning (CNN)**, Classical **Machine Learning**, and **Transfer Learning (VGG16)**, to classify images into three categories: **Normal**, **Correlated**, and **Reversal**.
 The web interface provides an engaging, quiz-based experience for users while displaying real-time results and feedback.
 
 ---
@@ -12,19 +11,19 @@ The web interface provides an engaging, quiz-based experience for users while di
 - **AI Models Comparison:**  
   Evaluates CNN, ML ensemble, and Transfer Learning (VGG16) models based on accuracy, precision, recall, and F1-score.  
 - **Interactive Frontend:**  
-  Offers two quiz modes, *Alphabetical Quiz* and *Word Quiz*, with random questions and dynamic scoring.  
+  Offers two quiz modes, *Alphabetical Quiz* and *Word Quiz*, with handwriting-based canvas input, dynamic question navigation, and real-time scoring.  
 - **Real-time Evaluation:**  
   Predicts the user’s category (*Normal*, *Correlated*, or *Reversal*) based on performance.  
 - **Graphical Feedback:**  
-  Displays detailed results with percentage scores and class-wise ratio charts.  
+  Displays detailed results with percentage scores and class-wise ratio charts powered by Chart.js.  
 - **User Feedback Form:**  
   Allows participants to share responses after completion.  
 
 ---
 
 ## 🧩 Tech Stack
-- **Backend:** Python, TensorFlow/Keras, Scikit-learn, NumPy, Matplotlib  
-- **Frontend:** Streamlit (or Flask, if applicable), HTML/CSS, JavaScript  
+- **Backend:** Python, Flask, TensorFlow/Keras, Scikit-learn, NumPy, Matplotlib  
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Chart.js  
 - **Modeling Approaches:**  
   - CNN (Custom-built deep learning model)  
   - Ensemble ML (Random Forest + Gradient Boosting)  
@@ -47,4 +46,4 @@ pip install -r requirements.txt
 
 ## Run the app
 
-streamlit run main.py
+python app.py
