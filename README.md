@@ -1,13 +1,13 @@
-# 🧠 Dyslexia Prediction Web Application
+# Dyslexia Prediction Web Application
 
-## 📌 Overview
+## Overview
 This project integrates **AI-based image classification** with an interactive web game designed to predict cognitive response patterns related to dyslexia.
 It compares three approaches, **Deep Learning (CNN)**, Classical **Machine Learning**, and **Transfer Learning (VGG16)**, to classify images into three categories: **Normal**, **Correlated**, and **Reversal**.
 The web interface provides an engaging, quiz-based experience for users while displaying real-time results and feedback.
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 - **AI Models Comparison:**  
   Evaluates CNN, ML ensemble, and Transfer Learning (VGG16) models based on accuracy, precision, recall, and F1-score.  
 - **Interactive Frontend:**  
@@ -21,7 +21,7 @@ The web interface provides an engaging, quiz-based experience for users while di
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - **Backend:** Python, Flask, TensorFlow/Keras, Scikit-learn, NumPy, Matplotlib  
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Chart.js  
 - **Modeling Approaches:**  
@@ -31,7 +31,7 @@ The web interface provides an engaging, quiz-based experience for users while di
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. **Clone the repository:**
 
    git clone (https://github.com/ZonaZubair/FYP-Dyslexia-Prediction-App.git)
@@ -50,31 +50,31 @@ python app.py
 
 ---
 
-## 🖼️ UI Screenshots
+## UI Screenshots
 
 <table>
   <tr>
     <td align="center">
       <img src="screenshots/home.png" width="400"/>
       <br/>
-      <b>🏠 Home Page</b>
+      <b> Home Page</b>
     </td>
     <td align="center">
       <img src="screenshots/alphabetical_quiz.png" width="400"/>
       <br/>
-      <b>🔤 Alphabetical Quiz with Handwriting Canvas Input</b>
+      <b> Alphabetical Quiz with Handwriting Canvas Input</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="screenshots/word_quiz.png" width="400"/>
       <br/>
-      <b>📝 Word Quiz Interface with Handwriting Canvas Input</b>
+      <b> Word Quiz Interface with Handwriting Canvas Input</b>
     </td>
     <td align="center">
       <img src="screenshots/result.png" width="400"/>
       <br/>
-      <b>📊 Result Page with Score Summary and Prediction</b>
+      <b> Result Page with Score Summary and Prediction</b>
     </td>
   </tr>
 </table>
