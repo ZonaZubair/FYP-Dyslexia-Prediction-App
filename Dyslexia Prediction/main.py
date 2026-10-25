@@ -4,6 +4,7 @@ from config.app_config import AppConfig
 from routes.home import configure_home_routes
 from routes.alphabets_quiz import configure_alphabets_routes
 from routes.words_quiz import configure_words_routes
+import os
 
 app = Flask(__name__)
 
@@ -26,4 +27,4 @@ configure_alphabets_routes(app)
 configure_words_routes(app)
 
 if __name__ == "__main__":
-    app.run(debug=True, host=config.HOST, port=config.PORT)
+    app.run(debug=False, host="0.0.0.0", port=int(os.environ.get("PORT", config.PORT)))
