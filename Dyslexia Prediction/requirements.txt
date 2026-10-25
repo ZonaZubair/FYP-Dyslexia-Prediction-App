@@ -1,0 +1,11 @@
+flask
+
+tensorflow-cpu
+
+keras
+
+opencv-python
+
+pillow
+
+numpy
