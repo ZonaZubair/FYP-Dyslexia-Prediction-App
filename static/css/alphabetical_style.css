@@ -1,0 +1,180 @@
+.quiz-title {
+    font-family: "Comic Sans MS", cursive, sans-serif; /* Playful font */
+    color: #2d211a; /* Bright orange color */
+    font-size: 36px; /* Larger font size */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for emphasis */
+}
+
+
+.container-canvas {
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bg-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background to overlay on the background image */
+}
+
+.bg-white {
+    background-color: #fff; /* White background */
+}
+
+.card {
+    background-color: #9acbfc; /* Blue background */
+    color: #fff; /* White text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.question {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.fa-volume-up {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.btn {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.btn-secondary {
+    background-color: #888;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #1e90ff;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #007bff;
+}
+
+.btn-secondary:hover {
+    background-color: #555;
+}
+
+.canvas-container canvas {
+    width: 500px !important;
+    height: 300px !important;
+}
+
+.canvas-container pieChart {
+    width: 600px !important;
+    height: 600px !important;
+}
+
+
+
+#clearBtn {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 50px;
+
+}
+
+/* CSS */
+.counter {
+    position: relative;
+    top: 2px;
+    left: 460px;
+    color: #280101;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.question-text {
+    font-family: "Comic Sans MS", cursive, sans-serif; /* Playful font */
+    color: #2d1111; /* Vibrant pink color */
+    font-size: 30px; /* Larger font size */
+    font-weight: 600; /* Semi-bold font weight */
+}
+
+.speaker-icon {
+    width: 40px; /* Adjust width */
+    height: 40px; /* Adjust height */
+    transform: rotate(210deg); /* Rotate the icon by 180 degrees */
+    position: relative;
+    left: 440px; /* Adjust position */
+    top: 30px; /* Adjust position */
+}
+
+
+/* New styles for resultLabel and resultScore */
+#resultLabel,
+#resultScore {
+    font-family: "Comic Sans MS", cursive, sans-serif; /* Playful font */
+    color: #2d211a; /* Bright orange color */
+    font-size: 24px; /* Larger font size */
+    margin-top: 10px; /* Add margin to separate from other elements */
+}
+
+/* Positioning for resultLabel and resultScore */
+#resultLabel {
+    position: relative;
+    top: 30px; /* Adjust as needed */
+    left: 80px; /* Adjust as needed */
+}
+
+#resultScore {
+    position: relative;
+    top: 20px; /* Adjust as needed */
+    left: 80px; /* Adjust as needed */
+}
+
+#result {
+    font-family: "Comic Sans MS", cursive, sans-serif; /* Playful font */
+    color: #2d211a; /* Bright orange color */
+    font-size: 24px; /* Larger font size */
+    margin-top: 150px; /* Add margin to separate from other elements */
+    margin-left:140px;
+}
+
+.green-text {
+    color: green;
+}
+
+.red-text {
+    color: red;
+}
+
+
+/* New styles for predicted_result and predicted_score */
+#predicted_result,
+#predicted_score {
+    font-family: "Comic Sans MS", cursive, sans-serif; /* Playful font */
+    font-size: 24px; /* Larger font size */
+    margin-top: 0px; /* Add margin to separate from other elements */
+}
+
+/* Positioning for predicted_result and predicted_score */
+#predicted_result {
+    position: relative;
+    top: 0px; /* Adjust as needed */
+    left: 80px; /* Adjust as needed */
+}
+
+#predicted_score {
+    position: relative;
+    top: 0px; /* Adjust as needed */
+    left: 80px; /* Adjust as needed */
+}
